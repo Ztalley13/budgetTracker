@@ -23,7 +23,7 @@ input {
   border: 2px solid whitesmoke;
   border-radius: 6px;
   padding: .4em .8em;
-  background-color: lightpink;
+  background-color: pink;
 }
 
 input:focus {
