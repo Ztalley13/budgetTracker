@@ -20,7 +20,7 @@ label {
 }
 
 input {
-  border: 2px solid transparent;
+  border: 2px solid transparent #5912ff;
   border-radius: 6px;
   padding: .4em .8em;
   background-color: lightpink;
